@@ -15,12 +15,11 @@ public:
     int f(TreeNode* root){
         if(!root) return 0;
         int count = 0;
-        count+=1+f(root->left);
-        count+=1+f(root->right);
+        count+=1+f(root->left)+f(root->right);
     return count;
     }
     int countNodes(TreeNode* root) {
 
-    return f(root)/2;
+    return f(root);
     }
 };
