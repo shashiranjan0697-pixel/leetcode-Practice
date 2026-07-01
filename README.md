@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0367-valid-perfect-square) |
 ## Enumeration
 |  |
@@ -108,4 +109,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
