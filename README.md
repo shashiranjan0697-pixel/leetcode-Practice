@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0367-valid-perfect-square](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0367-valid-perfect-square) |
 ## Sliding Window
@@ -86,5 +87,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0029-divide-two-integers) |
+| [0222-count-complete-tree-nodes](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0389-find-the-difference](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0389-find-the-difference) |
+## Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0222-count-complete-tree-nodes) |
+## Binary Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
