@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0412-fizz-buzz) |
 ## Enumeration
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0205-isomorphic-strings) |
 | [0389-find-the-difference](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0412-fizz-buzz) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Bit Manipulation
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0342-power-of-four) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
