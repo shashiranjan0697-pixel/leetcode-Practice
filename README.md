@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0414-third-maximum-number](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0414-third-maximum-number) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0821-shortest-distance-to-a-character](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0821-shortest-distance-to-a-character) |
 | [1004-max-consecutive-ones-iii](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1288-remove-covered-intervals](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1288-remove-covered-intervals) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0415-add-strings) |
+| [0821-shortest-distance-to-a-character](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0821-shortest-distance-to-a-character) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1446-consecutive-characters](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1446-consecutive-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -153,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0404-sum-of-left-leaves) |
+## Two Pointers
+|  |
+| ------- |
+| [0821-shortest-distance-to-a-character](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0821-shortest-distance-to-a-character) |
 <!---LeetCode Topics End-->
