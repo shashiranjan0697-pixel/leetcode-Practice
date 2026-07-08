@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0414-third-maximum-number) |
 | [0575-distribute-candies](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0575-distribute-candies) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0806-number-of-lines-to-write-string](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0806-number-of-lines-to-write-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0821-shortest-distance-to-a-character) |
 | [1004-max-consecutive-ones-iii](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1288-remove-covered-intervals](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1288-remove-covered-intervals) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0415-add-strings) |
+| [0806-number-of-lines-to-write-string](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0806-number-of-lines-to-write-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0821-shortest-distance-to-a-character) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1446-consecutive-characters](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1446-consecutive-characters) |
