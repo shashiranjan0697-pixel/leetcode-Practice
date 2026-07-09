@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0414-third-maximum-number](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0414-third-maximum-number) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 ## Math
 |  |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0841-keys-and-rooms) |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0841-keys-and-rooms) |
@@ -172,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
