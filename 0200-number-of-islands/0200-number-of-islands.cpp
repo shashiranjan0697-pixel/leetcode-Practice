@@ -8,6 +8,10 @@ public:
         visited[i][j]=true;
         while(!q.empty()){
 
+        i=q.front().first;
+        j=q.front().second;
+        q.pop();
+
             if(j<m-1 && !visited[i][j+1] && grid[i][j+1]=='1') {
                 visited[i][j+1]=true;
                 q.push({i,j+1});
@@ -27,13 +31,6 @@ public:
                 visited[i-1][j]=true;
                 q.push({i-1,j});
             }
-            
-
-        q.pop();
-        if(q.size()==0) break;
-        i=q.front().first;
-        j=q.front().second;
-          
         }
     }
     int numIslands(vector<vector<char>>& grid) {
