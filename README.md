@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0210-course-schedule-ii) |
 | [0404-sum-of-left-leaves](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0841-keys-and-rooms) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0210-course-schedule-ii) |
 | [0404-sum-of-left-leaves](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0841-keys-and-rooms) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0841-keys-and-rooms) |
@@ -243,4 +246,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
