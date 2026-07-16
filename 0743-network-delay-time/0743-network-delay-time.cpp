@@ -16,13 +16,11 @@ public:
             int src = top.first;
             int wt = top.second;
             pq.pop();
-
-            
-
+            if(wt > time[src]) continue;
             for(auto ele : mp[src]){
                 int d = ele.first;      // destination
                 int t = ele.second;    // weight
-                if(wt > time[src]) continue;
+                
                 if(time[d] > wt+t){
                     time[d] = wt+t;
                     pq.push({d, wt+t});
