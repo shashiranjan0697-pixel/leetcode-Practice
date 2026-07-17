@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0414-third-maximum-number](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0414-third-maximum-number) |
+| [0561-array-partition](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0575-distribute-candies) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0806-number-of-lines-to-write-string](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0806-number-of-lines-to-write-string) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0409-longest-palindrome) |
+| [0561-array-partition](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0561-array-partition) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sorting
 |  |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0049-group-anagrams) |
 | [0389-find-the-difference](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0414-third-maximum-number) |
+| [0561-array-partition](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0561-array-partition) |
 | [1288-remove-covered-intervals](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -264,4 +267,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0743-network-delay-time) |
 | [1514-path-with-maximum-probability](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1514-path-with-maximum-probability) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
