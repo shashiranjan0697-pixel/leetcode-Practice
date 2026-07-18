@@ -3,8 +3,7 @@ public:
     typedef pair<int,int> pp;
 
     struct cmp {
-        bool operator()(const pair<pp,int>& a,
-                        const pair<pp,int>& b) const {
+        bool operator()( pair<pp,int>& a, pair<pp,int>& b) {
             return a.second > b.second;
         }
     };
