@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1514-path-with-maximum-probability](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1514-path-with-maximum-probability) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1631-path-with-minimum-effort](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0441-arranging-coins) |
 | [1004-max-consecutive-ones-iii](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1004-max-consecutive-ones-iii) |
+| [1631-path-with-minimum-effort](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sliding Window
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1631-path-with-minimum-effort](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
 ## Math
 |  |
 | ------- |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0841-keys-and-rooms) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1631-path-with-minimum-effort](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -214,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0841-keys-and-rooms) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1631-path-with-minimum-effort](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2685-count-the-number-of-complete-components) |
 ## Two Pointers
@@ -229,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0785-is-graph-bipartite) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1631-path-with-minimum-effort](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
@@ -265,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0743-network-delay-time) |
 | [1514-path-with-maximum-probability](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1514-path-with-maximum-probability) |
+| [1631-path-with-minimum-effort](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
 ## Shortest Path
 |  |
 | ------- |
