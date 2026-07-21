@@ -3,19 +3,19 @@ public:
     using pp = pair<int,int>;
 
     int bfs(unordered_map<int,vector<pp> >& mp, vector<bool>& visited){
-        priority_queue< pair<int, pp>, vector<pair<int, pp>>, greater<pair<int, pp>> > pq;
+        priority_queue<pp, vector<pp>, greater<pp> > pq;
         int cost = 0;
-        pq.push({0,{0, -1}});
+        pq.push({0,0});
         while(!pq.empty()){
             auto top = pq.top();
             pq.pop();
-            int wt = top.first, node = top.second.first, parent = top.second.second; 
+            int wt = top.first, node = top.second; 
             if(visited[node]) continue;
             cost+=wt;
             visited[node]= true;
             for(auto ele : mp[node]){
                 int dest = ele.first, dis=ele.second;
-                if(!visited[dest]) pq.push({dis, {dest, parent}}) ;
+                if(!visited[dest]) pq.push({dis, dest}) ;
             }
         }
     return cost;
