@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1514-path-with-maximum-probability](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1514-path-with-maximum-probability) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1584-min-cost-to-connect-all-points](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0785-is-graph-bipartite) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1584-min-cost-to-connect-all-points](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2685-count-the-number-of-complete-components) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0841-keys-and-rooms) |
 | [1514-path-with-maximum-probability](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1514-path-with-maximum-probability) |
+| [1584-min-cost-to-connect-all-points](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2685-count-the-number-of-complete-components) |
 ## Topological Sort
@@ -303,4 +306,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
