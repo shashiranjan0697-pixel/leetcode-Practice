@@ -310,4 +310,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1584-min-cost-to-connect-all-points) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
