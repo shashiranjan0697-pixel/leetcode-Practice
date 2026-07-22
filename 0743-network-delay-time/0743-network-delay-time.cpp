@@ -5,7 +5,7 @@ public:
             return a.second > b.second;
         }
     };
-
+// Dijkstra’s algorithm
     void bfs (unordered_map<int, vector<pair<int,int> > >& mp, vector<int>& time, int k){
         priority_queue<pair<int,int>,
                     vector<pair<int,int>>, cmp> pq;
@@ -30,18 +30,19 @@ public:
     }
 
     int networkDelayTime(vector<vector<int>>& times, int n, int k) {
-        unordered_map<int, vector<pair<int,int> > > mp;
-        for(auto ele : times){
-            int src = ele[0], dest = ele[1], wet = ele[2];
-            mp[src].push_back({dest, wet});
-            // mp[dest].push_back({src, wet});
-        }
+    // Bellman-Ford Algorithm
 
-        vector<int>time(n+1, INT_MAX);
-        time[0]=-1;
-        bfs(mp, time, k);
+        vector<int>res(n+1, INT_MAX);
+        res[k]=0;
+        for(int i=1;i<n;i++){
+            for(auto ele : times){
+                int src = ele[0], dest=ele[1], wt=ele[2];
+
+                if(res[src]!=INT_MAX && res[src]+wt < res[dest]) res[dest]=res[src]+wt;
+            }
+        }
         int ans=0;
-        for(auto x : time) ans = max(ans, x);
+        for(int i=1;i<=n;i++) ans = max(ans, res[i]);
         
     return ans == INT_MAX ? -1 : ans;
     }
