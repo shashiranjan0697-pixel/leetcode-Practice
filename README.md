@@ -174,12 +174,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0404-sum-of-left-leaves) |
 ## Binary Tree
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0404-sum-of-left-leaves) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0200-number-of-islands](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0207-course-schedule) |
