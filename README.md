@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1514-path-with-maximum-probability](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1514-path-with-maximum-probability) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1584-min-cost-to-connect-all-points](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1584-min-cost-to-connect-all-points) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/3536-maximum-product-of-two-digits) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1514-path-with-maximum-probability](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
 ## Shortest Path
