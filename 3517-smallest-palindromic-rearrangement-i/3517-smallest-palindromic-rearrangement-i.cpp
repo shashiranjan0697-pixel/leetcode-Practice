@@ -2,7 +2,6 @@ class Solution {
 public:
     string smallestPalindrome(string s) {
         int n = s.length();
-        if(n<4) return s;
        vector<int>freq(26,0);
        for(char ch : s){
         freq[ch-'a']++;
