@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2942-find-words-containing-character](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2942-find-words-containing-character) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3668-restore-finishing-order](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/3668-restore-finishing-order) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
