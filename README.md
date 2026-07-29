@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0367-valid-perfect-square](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0441-arranging-coins) |
 | [1004-max-consecutive-ones-iii](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1631-path-with-minimum-effort](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
@@ -345,4 +346,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0078-subsets) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
