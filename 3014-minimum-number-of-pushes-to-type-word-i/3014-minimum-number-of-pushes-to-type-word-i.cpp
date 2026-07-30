@@ -2,7 +2,6 @@ class Solution {
 public:
     int minimumPushes(string word) {
         unordered_map<char,int> mp;
-        // sort(word.begin(),word.end());
         int cost = 1;
         for(auto ele : word){
             if(mp.find(ele)==mp.end()) mp[ele]=cost;
