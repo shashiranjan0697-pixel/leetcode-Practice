@@ -361,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0197-rising-temperature](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0197-rising-temperature) |
 | [0595-big-countries](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0595-big-countries) |
 | [1045-customers-who-bought-all-products](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1045-customers-who-bought-all-products) |
 ## Backtracking
