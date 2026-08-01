@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0415-add-strings) |
 | [1260-shift-2d-grid](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1260-shift-2d-grid) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Depth-First Search
 |  |
@@ -389,4 +391,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0486-predict-the-winner) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/3222-find-the-winning-player-in-coin-game) |
 <!---LeetCode Topics End-->
