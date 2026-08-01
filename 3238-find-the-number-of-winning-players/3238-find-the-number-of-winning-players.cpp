@@ -10,7 +10,7 @@ public:
         }
         int count =0;
         for(int i=0;i<n;i++){
-            auto det = freq[i];
+            const auto& det = freq[i];
             for(auto x : det){
                 if(x.second>i){
                     count++;
