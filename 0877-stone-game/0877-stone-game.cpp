@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int dp[500][500];
+    vector<vector<int>> dp;
     int f(vector<int>& piles, int i, int j){
         if(i>j) return 0;
         if(dp[i][j]!=-1) return dp[i][j];
@@ -13,13 +13,13 @@ public:
     }
     
     bool stoneGame(vector<int>& piles) {
-    //     int n = piles.size();
-    //     memset(dp, -1, sizeof(dp));
-    //     int a = f(piles, 0, n-1);
-    //     int b = 0;
-    //     for(auto ele : piles) b+=ele;
-    //     b=b-a;
-    // return a>b;
-    return true;
+        int n = piles.size();
+        dp.resize(n, vector<int>(n,-1));
+        int a = f(piles, 0, n-1);
+        int b = 0;
+        for(auto ele : piles) b+=ele;
+        b=b-a;
+    return a>b;
+    // return true;
     }
 };
