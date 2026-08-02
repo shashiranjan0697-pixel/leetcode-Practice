@@ -13,13 +13,13 @@ public:
     }
     
     bool stoneGame(vector<int>& piles) {
-        int n = piles.size();
-        dp.resize(n, vector<int>(n,-1));
-        int a = f(piles, 0, n-1);
-        int b = 0;
-        for(auto ele : piles) b+=ele;
-        b=b-a;
-    return a>b;
-    // return true;
+    //     int n = piles.size();
+    //     dp.resize(n, vector<int>(n,-1));
+    //     int a = f(piles, 0, n-1);
+    //     int b = 0;
+    //     for(auto ele : piles) b+=ele;
+    //     b=b-a;
+    // return a>b;
+    return true;
     }
 };
