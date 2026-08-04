@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0258-add-digits) |
+| [0292-nim-game](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0367-valid-perfect-square) |
@@ -402,8 +403,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1406-stone-game-iii) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/3222-find-the-winning-player-in-coin-game) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
