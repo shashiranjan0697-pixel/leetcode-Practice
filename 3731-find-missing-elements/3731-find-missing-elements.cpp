@@ -1,13 +1,20 @@
 class Solution {
 public:
     vector<int> findMissingElements(vector<int>& nums) {
-        unordered_set<int> st(nums.begin(), nums.end());
+        int n = nums.size();
+        sort(nums.begin(), nums.end());
         vector<int> ans;
-        int mini = *min_element(nums.begin(), nums.end());
-        int maxi = *max_element(nums.begin(), nums.end());
-        cout<<mini<<" "<<maxi;
-        for(int i=mini;i<=maxi;i++){
-            if(!st.count(i)) ans.push_back(i);
+        int i=0, j=1;
+        while(j<n){
+            int temp = nums[i];
+            int diff = nums[j]-temp;
+            while(diff>1){
+                temp++;
+                ans.push_back(temp);
+                diff = nums[j]-temp;
+            }
+            i++;
+            j++;
         }
     return ans;
     }
