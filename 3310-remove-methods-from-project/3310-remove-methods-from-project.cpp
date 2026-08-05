@@ -1,29 +1,29 @@
 class Solution {
 public:
-    void bfs(unordered_map<int,vector<int>>& mp, 
-                unordered_set<int>& suspicious, 
-                vector<bool>& visited, int src){
-        queue<int> q;
-        if(!suspicious.count(src)){
-            q.push(src);
-            visited[src]=true;
-        }
-        while(!q.empty()){
-            auto front = q.front();
-            q.pop();
+    // void bfs(unordered_map<int,vector<int>>& mp, 
+    //             unordered_set<int>& suspicious, 
+    //             vector<bool>& visited, int src){
+    //     queue<int> q;
+    //     if(!suspicious.count(src)){
+    //         q.push(src);
+    //         visited[src]=true;
+    //     }
+    //     while(!q.empty()){
+    //         auto front = q.front();
+    //         q.pop();
 
-            for(auto &ele : mp[front]){
-                if(!visited[ele]){
-                    if(suspicious.count(ele)){
-                        suspicious.erase(ele);
-                    }
-                    q.push(ele);
-                    visited[ele] = true;
-                }
+    //         for(auto &ele : mp[front]){
+    //             if(!visited[ele]){
+    //                 if(suspicious.count(ele)){
+    //                     suspicious.erase(ele);
+    //                 }
+    //                 q.push(ele);
+    //                 visited[ele] = true;
+    //             }
                 
-            }
-        }
-    }
+    //         }
+    //     }
+    // }
 
     vector<int> remainingMethods(int n, int k, vector<vector<int>>& invocations) {
         unordered_set<int> suspicious;
