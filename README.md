@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1446-consecutive-characters](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1446-consecutive-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2351-first-letter-to-appear-twice](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2351-first-letter-to-appear-twice) |
+| [2810-faulty-keyboard](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2810-faulty-keyboard) |
 | [2942-find-words-containing-character](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0415-add-strings) |
 | [1260-shift-2d-grid](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1260-shift-2d-grid) |
+| [2810-faulty-keyboard](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2810-faulty-keyboard) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Depth-First Search
