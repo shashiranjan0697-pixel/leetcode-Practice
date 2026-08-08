@@ -1,12 +1,11 @@
 class Solution {
 public:
     string finalString(string s) {
-        for(int i=0;i<s.length();i++){
-            while(s[i]=='i'){
-                reverse(s.begin(),s.begin()+i);
-                s.replace(i,1,"");    
-            }
+        string ans="";
+        for(auto ele : s){
+            if(ele=='i') reverse(ans.begin(), ans.end());
+            else ans+=ele;
         }
-    return s;
+    return ans;
     }
 };
