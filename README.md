@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/3360-stone-removal-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1260-shift-2d-grid) |
 | [2810-faulty-keyboard](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2810-faulty-keyboard) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/3222-find-the-winning-player-in-coin-game) |
+| [3360-stone-removal-game](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/3360-stone-removal-game) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Depth-First Search
 |  |
