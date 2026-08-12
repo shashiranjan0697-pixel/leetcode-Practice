@@ -14,7 +14,7 @@ public:
                 mp[nums[j]]++;
                 j++;
             }
-            else if (mp[nums[j]] >= k) {
+            else {
                 mp[nums[i]]--;
                 i++;
             }
