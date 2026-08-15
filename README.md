@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3238-find-the-number-of-winning-players](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/3238-find-the-number-of-winning-players) |
 | [3668-restore-finishing-order](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/3668-restore-finishing-order) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0389-find-the-difference) |
 | [2351-first-letter-to-appear-twice](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2351-first-letter-to-appear-twice) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Tree
 |  |
 | ------- |
