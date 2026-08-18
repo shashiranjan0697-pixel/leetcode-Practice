@@ -8,8 +8,9 @@ public:
             for(int j=i; j<i+k; j++){
                 st.insert(nums[j]);
             }
-            for(auto x : st) mp[x]++;    
+            for(auto x : st) mp[x]++; 
         }
+        
         int ans = -1;
         for(auto x : mp){
             if(x.second == 1){
