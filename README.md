@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3238-find-the-number-of-winning-players](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/3238-find-the-number-of-winning-players) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3668-restore-finishing-order](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/3668-restore-finishing-order) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0415-add-strings) |
 | [1260-shift-2d-grid](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1260-shift-2d-grid) |
 | [2810-faulty-keyboard](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2810-faulty-keyboard) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3360-stone-removal-game](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/3360-stone-removal-game) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
