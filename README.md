@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0205-isomorphic-strings) |
+| [0299-bulls-and-cows](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0299-bulls-and-cows) |
 | [0387-first-unique-character-in-a-string](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0409-longest-palindrome) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0299-bulls-and-cows) |
 | [0387-first-unique-character-in-a-string](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0819-most-common-word](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0819-most-common-word) |
 | [2029-stone-game-ix](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2029-stone-game-ix) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0205-isomorphic-strings) |
+| [0299-bulls-and-cows](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0387-first-unique-character-in-a-string) |
