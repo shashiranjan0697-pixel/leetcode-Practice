@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Prefix Sum
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2351-first-letter-to-appear-twice](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2351-first-letter-to-appear-twice) |
 | [2810-faulty-keyboard](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2810-faulty-keyboard) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2942-find-words-containing-character](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
