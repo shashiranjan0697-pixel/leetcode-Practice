@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2029-stone-game-ix) |
 | [2032-two-out-of-three](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2032-two-out-of-three) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2942-find-words-containing-character](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2942-find-words-containing-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1386-cinema-seat-allocation) |
 | [2032-two-out-of-three](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2032-two-out-of-three) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2351-first-letter-to-appear-twice) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0819-most-common-word](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0819-most-common-word) |
 | [2029-stone-game-ix](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2029-stone-game-ix) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2351-first-letter-to-appear-twice) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3238-find-the-number-of-winning-players](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/3238-find-the-number-of-winning-players) |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1446-consecutive-characters](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1446-consecutive-characters) |
 | [1927-sum-game](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2351-first-letter-to-appear-twice) |
 | [2810-faulty-keyboard](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2810-faulty-keyboard) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
