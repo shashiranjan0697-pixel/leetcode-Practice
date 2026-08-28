@@ -17,7 +17,7 @@ public:
             maxFreq = max(maxFreq, mp[s[j]]);
             j++;
         }
-    if((j-i)-maxFreq <= k)  len = max(len, j-i);
+        if((j-i)-maxFreq <= k)  len = max(len, j-i);
     return len;
     }
 };
