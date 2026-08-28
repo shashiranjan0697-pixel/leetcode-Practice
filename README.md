@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [1004-max-consecutive-ones-iii](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0575-distribute-candies](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0575-distribute-candies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0819-most-common-word](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0819-most-common-word) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0415-add-strings) |
+| [0424-longest-repeating-character-replacement](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0434-number-of-segments-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0557-reverse-words-in-a-string-iii) |
