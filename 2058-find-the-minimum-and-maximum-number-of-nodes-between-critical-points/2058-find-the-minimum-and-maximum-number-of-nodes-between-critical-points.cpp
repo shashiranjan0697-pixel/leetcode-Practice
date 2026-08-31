@@ -41,12 +41,10 @@ public:
         prev = curr;
         curr = curr->next;
         }
+        
+    for(auto ele : idx) cout<<ele<<", ";
 
         if(idx.size() < 2) return {-1, -1};
-
-        sort(idx.begin(), idx.end());
-
-        for(auto ele : idx) cout<<ele<<", ";
 
         int n = idx.size();
 
@@ -56,7 +54,7 @@ public:
         for(int i=1; i<n; i++) {
             mini = min(mini, (idx[i]-idx[i-1]) );
         }
-        
+
     return {mini, maxi};
     }
 };
