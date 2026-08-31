@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0203-remove-linked-list-elements) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
 |  |
 | ------- |
