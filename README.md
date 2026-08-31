@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0739-daily-temperatures](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0739-daily-temperatures) |
 | [0806-number-of-lines-to-write-string](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0821-shortest-distance-to-a-character) |
@@ -466,10 +467,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0225-implement-stack-using-queues) |
+| [0739-daily-temperatures](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Minimum Spanning Tree
 |  |
