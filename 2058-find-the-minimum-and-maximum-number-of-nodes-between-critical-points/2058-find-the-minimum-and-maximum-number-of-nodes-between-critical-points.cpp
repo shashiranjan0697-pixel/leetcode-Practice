@@ -12,17 +12,32 @@ class Solution {
 public:
     vector<int> nodesBetweenCriticalPoints(ListNode* head) {
         vector<int> idx;
+
         int index = 2;
+
         ListNode* curr = head->next;
         ListNode* prev = head;
+
         while(curr){
-            if(curr->next && curr->val < prev->val && curr->val < curr->next->val){
+
+            if(curr->next && 
+            curr->val < prev->val && 
+            curr->val < curr->next->val){
+
                 idx.push_back(index);
+
             }
-            if(curr->next && curr->val > prev->val && curr->val > curr->next->val){
+
+            if(curr->next && 
+            curr->val > prev->val && 
+            curr->val > curr->next->val){
+
                 idx.push_back(index);
+
             }
+
         index++;
+
         prev = curr;
         curr = curr->next;
         }
@@ -37,9 +52,11 @@ public:
 
         int maxi = idx[n-1] - idx[0];
         int mini = idx[n-1];
+
         for(int i=1; i<n; i++) {
             mini = min(mini, (idx[i]-idx[i-1]) );
         }
+        
     return {mini, maxi};
     }
 };
