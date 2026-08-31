@@ -41,8 +41,6 @@ public:
         prev = curr;
         curr = curr->next;
         }
-        
-    for(auto ele : idx) cout<<ele<<", ";
 
         if(idx.size() < 2) return {-1, -1};
 
