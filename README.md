@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0414-third-maximum-number](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0414-third-maximum-number) |
 | [0486-predict-the-winner](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0486-predict-the-winner) |
+| [0503-next-greater-element-ii](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0503-next-greater-element-ii) |
 | [0561-array-partition](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -467,11 +468,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0225-implement-stack-using-queues) |
+| [0503-next-greater-element-ii](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Minimum Spanning Tree
