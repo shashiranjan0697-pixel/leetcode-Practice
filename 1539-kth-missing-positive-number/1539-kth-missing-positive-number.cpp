@@ -2,13 +2,20 @@ class Solution {
 public:
     int findKthPositive(vector<int>& arr, int k) {
         int n = arr.size();
-
-        unordered_set<int> st(arr.begin(), arr.end());
-        int count = 0;
-        for(int i=1; i<2005; i++){
-            if(!st.count(i)) count++;
-            if(count == k) return i;
+        vector<int> missing;
+        int start = 1;
+        for(int i=0; i<n; i++){
+            while(start != arr[i]){
+                missing.push_back(start);
+                start++;
+            }
+        start++;
         }
-    return -1;
+        while(missing.size() < k) {
+            missing.push_back(start);
+                start++;
+        }
+        
+    return missing[k-1];
     }
 };
