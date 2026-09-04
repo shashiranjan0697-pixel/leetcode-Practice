@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2029-stone-game-ix) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2974-minimum-number-game](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
