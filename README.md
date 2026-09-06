@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0078-subsets) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0205-isomorphic-strings) |
 | [0299-bulls-and-cows](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0299-bulls-and-cows) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0240-search-a-2d-matrix-ii) |
