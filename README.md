@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0404-sum-of-left-leaves) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0703-kth-largest-element-in-a-stream) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0404-sum-of-left-leaves) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0703-kth-largest-element-in-a-stream) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Linked List
 |  |
 | ------- |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1971-find-if-path-exists-in-graph) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
