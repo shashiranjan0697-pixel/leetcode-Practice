@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0240-search-a-2d-matrix-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0414-third-maximum-number) |
 | [0486-predict-the-winner](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0486-predict-the-winner) |
 | [0503-next-greater-element-ii](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0503-next-greater-element-ii) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0441-arranging-coins) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0205-isomorphic-strings](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0205-isomorphic-strings) |
 | [0299-bulls-and-cows](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0299-bulls-and-cows) |
+| [0349-intersection-of-two-arrays](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0409-longest-palindrome) |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0349-intersection-of-two-arrays](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0561-array-partition) |
@@ -416,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0541-reverse-string-ii](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0567-permutation-in-string) |
