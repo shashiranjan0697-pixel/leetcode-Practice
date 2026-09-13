@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-number-of-lines-to-write-string](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0821-shortest-distance-to-a-character) |
+| [0835-image-overlap](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0904-fruit-into-baskets) |
 | [0994-rotting-oranges](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0994-rotting-oranges) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0240-search-a-2d-matrix-ii) |
+| [0835-image-overlap](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1260-shift-2d-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1559-detect-cycles-in-2d-grid) |
