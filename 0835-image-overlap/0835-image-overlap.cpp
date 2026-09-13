@@ -1,12 +1,14 @@
-struct Hash {
-    size_t operator()(const pair<int,int>& p) const {
-        return hash<int>()(p.first) ^ (hash<int>()(p.second) << 1);
-    }
-};
-
 class Solution {
 public:
+
     typedef pair<int,int> pp;
+
+    struct Hash {
+        size_t operator()(const pp& p) const {
+            return p.first ^ p.second;
+        }
+    };
+    
     int largestOverlap(vector<vector<int>>& img1, vector<vector<int>>& img2) {
 
         int n = img1.size();
