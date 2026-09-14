@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0078-subsets) |
+| [0189-rotate-array](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0029-divide-two-integers) |
+| [0189-rotate-array](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0189-rotate-array) |
 | [0223-rectangle-area](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0258-add-digits) |
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0349-intersection-of-two-arrays) |
