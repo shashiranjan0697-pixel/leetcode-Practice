@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0029-divide-two-integers) |
+| [0223-rectangle-area](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0292-nim-game) |
@@ -618,5 +619,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0223-rectangle-area) |
 | [0836-rectangle-overlap](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
