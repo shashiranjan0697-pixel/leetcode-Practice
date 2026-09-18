@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0345-reverse-vowels-of-a-string) |
