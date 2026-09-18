@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2032-two-out-of-three](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2032-two-out-of-three) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2062-count-vowel-substrings-of-a-string) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0561-array-partition) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1927-sum-game](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1927-sum-game) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -318,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1446-consecutive-characters](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1446-consecutive-characters) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2053-kth-distinct-string-in-an-array) |
