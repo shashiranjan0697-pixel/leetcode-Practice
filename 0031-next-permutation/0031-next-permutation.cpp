@@ -13,7 +13,7 @@ public:
         }
 
         if(breakPoint == -1){ 
-                sort(nums.begin(), nums.end());
+                reverse(nums.begin(), nums.end());
                 return;
             }
         int temp = 1005;
@@ -28,7 +28,7 @@ public:
 
         swap(nums[temp], nums[breakPoint]);
             
-        sort(nums.begin()+breakPoint+1, nums.end());
+        reverse(nums.begin()+breakPoint+1, nums.end());
 
     }
 };
