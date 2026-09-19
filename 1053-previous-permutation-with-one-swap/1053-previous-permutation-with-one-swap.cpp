@@ -23,7 +23,6 @@ public:
                 }
             }
         }
-        cout<<breakingPoint<<", "<<reqIdx;
         swap(arr[breakingPoint], arr[reqIdx] );
 
     return arr;
