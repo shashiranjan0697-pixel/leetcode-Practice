@@ -8,9 +8,9 @@ public:
 
             int temp = s[i] - 'a';
 
-            int val = 26 - temp;
-            
-            ans += (val*(i+1));
+            int val = (26 - temp)*(i+1);
+
+            ans += (val);
         }
     return ans;
     }
