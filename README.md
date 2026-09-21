@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3238-find-the-number-of-winning-players](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/3238-find-the-number-of-winning-players) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/3483-unique-3-digit-even-numbers) |
+| [3524-find-x-value-of-array-i](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/3524-find-x-value-of-array-i) |
 | [3668-restore-finishing-order](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/3668-restore-finishing-order) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3222-find-the-winning-player-in-coin-game](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3360-stone-removal-game](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/3360-stone-removal-game) |
+| [3524-find-x-value-of-array-i](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/3524-find-x-value-of-array-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -550,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3524-find-x-value-of-array-i](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/3524-find-x-value-of-array-i) |
 ## Stack
 |  |
 | ------- |
