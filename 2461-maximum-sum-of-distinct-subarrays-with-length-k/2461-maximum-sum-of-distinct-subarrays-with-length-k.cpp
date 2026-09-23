@@ -2,10 +2,14 @@ class Solution {
 public:
     long long maximumSubarraySum(vector<int>& nums, int k) {
         int n = nums.size();
+
         unordered_set<int> st;
+
         long long ans = 0;
         long long sum = 0;
+
         int i=0;
+        
         for(int j=0; j<n; j++){
 
             while(st.count(nums[j])){
@@ -28,9 +32,6 @@ public:
             if(st.size() == k) {
                 ans = max(ans, sum);
             }   
-        }
-        if(st.size() == k) {
-            ans = max(ans, sum);
         }
     return ans;
     }
