@@ -1,9 +1,7 @@
 class Solution {
 public:
-    bool checkIfPangram(string sentence) {
-        unordered_set<char> st;
-        for(auto ele : sentence) 
-            st.insert(ele);
+    bool checkIfPangram(string s) {
+        unordered_set<char> st(s.begin(), s.end());
 
     return st.size() == 26;
     }
