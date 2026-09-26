@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2032-two-out-of-three](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2032-two-out-of-three) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1446-consecutive-characters](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1446-consecutive-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1927-sum-game](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
