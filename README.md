@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0904-fruit-into-baskets) |
+| [0989-add-to-array-form-of-integer](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0989-add-to-array-form-of-integer) |
 | [0994-rotting-oranges](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1046-last-stone-weight) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0877-stone-game) |
+| [0989-add-to-array-form-of-integer](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0989-add-to-array-form-of-integer) |
 | [1140-stone-game-ii](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1140-stone-game-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1406-stone-game-iii) |
