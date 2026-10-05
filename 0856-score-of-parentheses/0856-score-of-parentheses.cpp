@@ -8,16 +8,16 @@ public:
             if(ele == '(') st.push(0);
 
             else{
-                int curr = st.top();
+                int ele = st.top();
                 st.pop();
 
-                if(curr == 0){
-                    curr = 1;
+                if(ele == 0){
+                    ele = 1;
                 }
                 else{
-                    curr *= 2;
+                    ele *= 2;
                 }
-            st.top() += curr;
+            st.top() += ele;
             }
         }
     return st.top();
