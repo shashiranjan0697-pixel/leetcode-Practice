@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0041-first-missing-positive) |
+| [0046-permutations](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0074-search-a-2d-matrix) |
@@ -635,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0078-subsets) |
 ## Interactive
 |  |
