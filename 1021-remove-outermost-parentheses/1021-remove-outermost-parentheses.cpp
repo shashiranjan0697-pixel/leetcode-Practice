@@ -1,14 +1,15 @@
 class Solution {
 public:
     string removeOuterParentheses(string s) {
-        stack<char> st;
+        // stack<char> st;
+        int st = 0;
         string temp = "";
         string ans = "";
         for(auto ele : s) {
-            if(!st.empty() && st.top() =='(' && ele == ')'){
-                st.pop();
+            if(st!=0 && ele == ')'){
+                st--;
                 temp += ele;
-                if(st.empty()){
+                if(st==0){
                     temp.erase(0,1);
                     temp.erase(temp.size()-1,1);
                     ans += temp;
@@ -18,7 +19,7 @@ public:
             }
             else {
                 temp += ele;
-                st.push(ele);
+                st++;
             }
         }
     return ans;
