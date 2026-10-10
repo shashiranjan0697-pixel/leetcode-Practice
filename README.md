@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0414-third-maximum-number) |
 | [0463-island-perimeter](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0463-island-perimeter) |
 | [0486-predict-the-winner](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0486-predict-the-winner) |
+| [0500-keyboard-row](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0503-next-greater-element-ii) |
 | [0561-array-partition](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0575-distribute-candies) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0500-keyboard-row](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0575-distribute-candies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0434-number-of-segments-in-a-string) |
+| [0500-keyboard-row](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0500-keyboard-row) |
 | [0541-reverse-string-ii](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0567-permutation-in-string) |
