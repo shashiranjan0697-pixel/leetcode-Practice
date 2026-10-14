@@ -25,6 +25,7 @@ public:
         int check = 0;
 
         for (char ele : ans){
+            if(ele - '0' == 0) break;
             check += ele - '0';
         }
 
