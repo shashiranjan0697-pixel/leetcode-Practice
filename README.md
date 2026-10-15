@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2942-find-words-containing-character](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2942-find-words-containing-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2974-minimum-number-game](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2974-minimum-number-game) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2351-first-letter-to-appear-twice) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2729-check-if-the-number-is-fascinating) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Merge Sort
 |  |
@@ -758,4 +761,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
