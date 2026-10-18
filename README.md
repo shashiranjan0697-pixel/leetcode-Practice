@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0414-third-maximum-number) |
 | [0463-island-perimeter](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0463-island-perimeter) |
+| [0485-max-consecutive-ones](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0486-predict-the-winner) |
 | [0500-keyboard-row](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0503-next-greater-element-ii) |
