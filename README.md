@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1406-stone-game-iii) |
+| [1486-xor-operation-in-an-array](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1486-xor-operation-in-an-array) |
 | [1510-stone-game-iv](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1510-stone-game-iv) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1563-stone-game-v](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1563-stone-game-v) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0461-hamming-distance) |
 | [1386-cinema-seat-allocation](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1386-cinema-seat-allocation) |
+| [1486-xor-operation-in-an-array](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1486-xor-operation-in-an-array) |
 | [2032-two-out-of-three](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2032-two-out-of-three) |
 | [2351-first-letter-to-appear-twice](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2351-first-letter-to-appear-twice) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
