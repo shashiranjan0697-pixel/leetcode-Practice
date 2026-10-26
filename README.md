@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0904-fruit-into-baskets) |
 | [0989-add-to-array-form-of-integer](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0989-add-to-array-form-of-integer) |
 | [0994-rotting-oranges](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0994-rotting-oranges) |
+| [1002-find-common-characters](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1046-last-stone-weight) |
 | [1053-previous-permutation-with-one-swap](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1053-previous-permutation-with-one-swap) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0819-most-common-word) |
 | [0904-fruit-into-baskets](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0904-fruit-into-baskets) |
+| [1002-find-common-characters](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1002-find-common-characters) |
 | [1122-relative-sort-array](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0917-reverse-only-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0940-distinct-subsequences-ii) |
+| [1002-find-common-characters](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1002-find-common-characters) |
 | [1021-remove-outermost-parentheses](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
