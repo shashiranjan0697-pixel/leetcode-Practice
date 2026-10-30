@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1140-stone-game-ii) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1360-number-of-days-between-two-dates](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1360-number-of-days-between-two-dates) |
 | [1399-count-largest-group](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1399-count-largest-group) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1406-stone-game-iii) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1360-number-of-days-between-two-dates](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1360-number-of-days-between-two-dates) |
 | [1446-consecutive-characters](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1446-consecutive-characters) |
 | [1507-reformat-date](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1507-reformat-date) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
