@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1260-shift-2d-grid) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1288-remove-covered-intervals) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1331-rank-transform-of-an-array](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1406-stone-game-iii) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1140-stone-game-ii) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1360-number-of-days-between-two-dates](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1360-number-of-days-between-two-dates) |
 | [1399-count-largest-group](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1399-count-largest-group) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1401-circle-and-rectangle-overlapping) |
