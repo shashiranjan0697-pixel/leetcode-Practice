@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
