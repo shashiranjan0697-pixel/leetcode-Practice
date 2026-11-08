@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1122-relative-sort-array) |
 | [1140-stone-game-ii](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1267-count-servers-that-communicate) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1288-remove-covered-intervals) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0819-most-common-word](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0819-most-common-word) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1267-count-servers-that-communicate](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1267-count-servers-that-communicate) |
 | [1399-count-largest-group](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1399-count-largest-group) |
 | [2029-stone-game-ix](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2029-stone-game-ix) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1267-count-servers-that-communicate) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -540,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0841-keys-and-rooms) |
+| [1267-count-servers-that-communicate](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1267-count-servers-that-communicate) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1971-find-if-path-exists-in-graph) |
@@ -564,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0994-rotting-oranges) |
+| [1267-count-servers-that-communicate](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1267-count-servers-that-communicate) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1971-find-if-path-exists-in-graph) |
@@ -594,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0785-is-graph-bipartite) |
+| [1267-count-servers-that-communicate](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1267-count-servers-that-communicate) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1584-min-cost-to-connect-all-points](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
