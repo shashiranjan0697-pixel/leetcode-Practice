@@ -486,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0590-n-ary-tree-postorder-traversal](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0872-leaf-similar-trees](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0872-leaf-similar-trees) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -497,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0404-sum-of-left-leaves) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0872-leaf-similar-trees](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0872-leaf-similar-trees) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Linked List
 |  |
@@ -545,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0841-keys-and-rooms) |
+| [0872-leaf-similar-trees](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0872-leaf-similar-trees) |
 | [1267-count-servers-that-communicate](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1267-count-servers-that-communicate) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
