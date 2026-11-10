@@ -1,22 +1,17 @@
 class Solution {
 public:
     bool detectCapitalUse(string s) {
-        string temp = s;
+        int  n = s.length();
+        int count = 0;
 
-        // checking by transforming in uppercase 
-        transform(s.begin(), s.end(), s.begin(), ::toupper);
-        if(temp == s) return true;
-
-        // checking by transforming in lowercase 
-        transform(s.begin(), s.end(), s.begin(), ::tolower);
-        if(temp == s) return true;
-
-        // checking by if forst char is uppercase rest are lowercase
-        if(temp[0] <= 'Z') {
-            s[0] = s[0] - 32; 
-            if(temp == s) return true;
+        for(int i=0; i<n; i++) {
+            if(s[i] <= 'Z') 
+                count++;
         }
-    // base case
+
+        if(count == 0 || (count == 1 && s[0] <= 'Z') || count == n)
+            return true;
+
     return false;
     }
 };
