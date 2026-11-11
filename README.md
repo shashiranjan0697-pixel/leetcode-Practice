@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0441-arranging-coins) |
 | [0486-predict-the-winner](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0728-self-dividing-numbers](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0989-add-to-array-form-of-integer) |
