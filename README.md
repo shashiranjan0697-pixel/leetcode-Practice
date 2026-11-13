@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1037-valid-boomerang](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1037-valid-boomerang) |
 | [1046-last-stone-weight](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1046-last-stone-weight) |
 | [1053-previous-permutation-with-one-swap](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1053-previous-permutation-with-one-swap) |
 | [1122-relative-sort-array](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1122-relative-sort-array) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0989-add-to-array-form-of-integer) |
+| [1037-valid-boomerang](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1037-valid-boomerang) |
 | [1140-stone-game-ii](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1140-stone-game-ii) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -813,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0223-rectangle-area](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0223-rectangle-area) |
 | [0836-rectangle-overlap](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0836-rectangle-overlap) |
+| [1037-valid-boomerang](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1037-valid-boomerang) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Quicksort
 |  |
