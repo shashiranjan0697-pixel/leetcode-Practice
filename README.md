@@ -504,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0872-leaf-similar-trees](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0872-leaf-similar-trees) |
+| [0897-increasing-order-search-tree](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0897-increasing-order-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -516,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0872-leaf-similar-trees](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0872-leaf-similar-trees) |
+| [0897-increasing-order-search-tree](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0897-increasing-order-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Linked List
 |  |
@@ -566,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0841-keys-and-rooms) |
 | [0872-leaf-similar-trees](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0872-leaf-similar-trees) |
+| [0897-increasing-order-search-tree](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0897-increasing-order-search-tree) |
 | [1267-count-servers-that-communicate](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1267-count-servers-that-communicate) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
@@ -722,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0856-score-of-parentheses) |
+| [0897-increasing-order-search-tree](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0897-increasing-order-search-tree) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -820,6 +824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0099-recover-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0897-increasing-order-search-tree](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0897-increasing-order-search-tree) |
 ## Data Stream
 |  |
 | ------- |
