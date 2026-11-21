@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0821-shortest-distance-to-a-character) |
 | [0835-image-overlap](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0835-image-overlap) |
+| [0860-lemonade-change](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0904-fruit-into-baskets) |
 | [0989-add-to-array-form-of-integer](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0989-add-to-array-form-of-integer) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0561-array-partition) |
 | [0678-valid-parenthesis-string](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0678-valid-parenthesis-string) |
+| [0860-lemonade-change](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1053-previous-permutation-with-one-swap](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1053-previous-permutation-with-one-swap) |
