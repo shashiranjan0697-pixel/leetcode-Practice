@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0078-subsets) |
 | [0134-gas-station](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0134-gas-station) |
+| [0152-maximum-product-subarray](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0209-minimum-size-subarray-sum) |
@@ -711,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0115-distinct-subsequences) |
+| [0152-maximum-product-subarray](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0152-maximum-product-subarray) |
 | [0486-predict-the-winner](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
