@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0078-subsets) |
 | [0134-gas-station](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0134-gas-station) |
 | [0152-maximum-product-subarray](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0152-maximum-product-subarray) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0349-intersection-of-two-arrays) |
@@ -617,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0345-reverse-vowels-of-a-string) |
@@ -857,10 +860,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0075-sort-colors) |
 | [1122-relative-sort-array](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1122-relative-sort-array) |
 ## Bubble Sort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/0075-sort-colors) |
 | [1122-relative-sort-array](https://github.com/shashiranjan0697-pixel/leetcode-Practice/tree/master/1122-relative-sort-array) |
 ## Combinatorics
 |  |
